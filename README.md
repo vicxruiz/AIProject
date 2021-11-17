@@ -3,7 +3,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 <p align="center">
-    <img src="screenshot.png" alt="GIF walk-through" width="250">  
+    <img src="screenshot.PNG" alt="GIF walk-through" width="250">  
 </p>
 
 ## Project Overview

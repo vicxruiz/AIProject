@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-Stock.ly provides a live analysis of every stock across a number of markets to provide you with all of the information you need to make smart decisions with your investment capital.
+AIProject utitlizes the power of AI to help users in their diet journey.
 
 <br>
 
